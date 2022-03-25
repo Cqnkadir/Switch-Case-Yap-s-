@@ -1,0 +1,5 @@
+C:\Users\berfi\Sites\pratikler\Switch-Case\obj\Debug\net5.0\Switch-Case.csproj.AssemblyReference.cache
+C:\Users\berfi\Sites\pratikler\Switch-Case\obj\Debug\net5.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berfi\Sites\pratikler\Switch-Case\obj\Debug\net5.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Users\berfi\Sites\pratikler\Switch-Case\obj\Debug\net5.0\Switch-Case.AssemblyInfo.cs
+C:\Users\berfi\Sites\pratikler\Switch-Case\obj\Debug\net5.0\Switch-Case.csproj.CoreCompileInputs.cache
